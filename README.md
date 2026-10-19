@@ -10,5 +10,3 @@ I'm a student at **Quant High School** in Armenia 🇦🇲.
 ## Certificates
 I collect my certificates here: [📁 Certificates](./certificates)
 
-## Contact
-- Email: aram.dallakyan.11@gmail.com
